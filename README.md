@@ -1,1 +1,1 @@
-# Maximum-Power-Point_tracking-converters
+# Maximum-Power-Point-tracking-converters
